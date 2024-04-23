@@ -2,4 +2,4 @@
 
 ## Roadmap
 
-![Roadmap](Product Data/Product Data Service Roadmap.png)
+![Roadmap](product_data_service_roadmap.png)
