@@ -2,4 +2,4 @@
 
 ## Roadmap
 
-![Roadmap](crypto_and_stock_data_searcher)
+![Roadmap](crypto_and_stock_data_searcher.png)
